@@ -8,3 +8,6 @@
 ## 1_**Instalar RabbitMQ *el brocker que nos deja comunicar los publicadores con subscriptores**, tambien los otros modulos*
 ## 2_**Tener abierto o ejecutando Rabbit MQ. Despues tienes que escribir en una terminal python.publicadores. Y en las otras tres terminales python.consumer.**
 ## 2_**Despues de haberlo hecho te dara resultado**
+# *Utilizamos*
+Programacion distribuida: PUB/SUB
+Programacion concurente: Product-consuumer
